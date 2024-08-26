@@ -1,0 +1,5 @@
+Brute force way is to create new array of squared items first and then sort it with inbuild sort
+Time complexity: O(nlogn)
+
+Optimized approach is to create two pointers at start and end to reverse iterate to make sure the largest element is kept at the end
+Time complexity: O(n)

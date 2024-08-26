@@ -1,1 +1,3 @@
 Straight forward problem, keep adding the curr + prev val till the end
+
+Time complexity: O(n)

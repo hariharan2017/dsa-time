@@ -1,0 +1,7 @@
+One way is to filter each element by converting to string and then do a modulo to get length
+Another way is to have function which calculates the number of digits by dividing by 10s and using that to find digits' length
+
+Best way is to use the constraint conditions to form the below -
+10-99 ---- Even digit
+1000-9999 --- Even digit
+100000 -- Even digit

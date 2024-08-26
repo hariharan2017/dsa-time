@@ -1,0 +1,5 @@
+Iterate through array and maintain current length
+When you encounter a 0, compare and set max length, reset current length
+In case where array has max length without any 0s, add one comparison at end to check the max and curr length
+
+Time complexity: O(n)
